@@ -1,7 +1,8 @@
-let arr = 'Holle Git';
-console.log(arr);
+let string = 'Holle Git';
+console.log(string);
 function gitStr (par){
 	return par.reverse();
 };
 
-gitStr(arr);
+
+gitStr(string);
